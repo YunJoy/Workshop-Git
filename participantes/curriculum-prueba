@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Curriculum de Prueba</title>
+</head>
+<body>
+	<h1>CURRICULUM VITAE</h1>
+	<img src="http://intlimg.demandmedia.com/DM-Resize/photos.demandstudios.com/getty/article/181/136/478353699_XS.jpg?w=400&h=200&keep_ratio=1">
+	<table>
+		<tbody>
+			<tr>
+				<td>
+					<b>Nombre</b>
+				</td>
+				<td>
+					Persona de Prueba
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<b>Email</b>
+				</td>
+				<td>
+					personadeprueba@espol.edu.ec
+				</td>
+			</tr>
+		</tbody>
+	</table>
+
+	<h2>Destrezas</h2>
+	<ul>
+		<li>
+			Destreza 1
+		</li>
+		<li>
+			Destreza 2
+		</li>
+		<li>
+			Destreza 3
+		</li>
+	</ul>
+</body>
+</html>
